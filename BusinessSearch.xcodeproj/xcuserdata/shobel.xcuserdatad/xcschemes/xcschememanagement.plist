@@ -7,7 +7,25 @@
 		<key>BusinessSearch.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>9</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1C871B342085B80700A58179</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1C871B482085B80800A58179</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1C871B532085B80800A58179</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

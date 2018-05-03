@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DetailsTabBarController.tweetTweet():DetailsTabBarController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "twitterUrl+text">
+            </PersistentString>
+            <PersistentString
+               value = "URL(string: &quot;https://twitter.com/intent/tweet?text=Check out&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "URL(string: twitterUrl + &quot;Check\r\n&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ResultsTableViewController.getDetails(placeid:):ResultsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "place.priceLevel.rawValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in DetailsTabBarController.loadReviews():DetailsTabBarController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "reviews.reviews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in static HTTPRequest.makeRequest(url:params:callback:):HTTPRequest.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dataResponse.value">
+            </PersistentString>
+            <PersistentString
+               value = "self.url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.tableView(_:cellForRowAt:):MainViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in static HTTPRequest.makeRequest(url:params:view:callback:):HTTPRequest.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapViewController.viewDidLoad():MapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json?[&quot;geometry&quot;][&quot;location&quot;][&quot;lat&quot;].floatValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailsTabBarController.setBusinessDetails():DetailsTabBarController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "place.googleurl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ResizeableButton.intrinsicContentSize.getter:ResizeableButton.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "titleLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailsTabBarController.loadReviews():DetailsTabBarController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "business">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MapViewController.requestDirections(from:):MapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "line[&quot;points&quot;].stringValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReviewsViewController.tableView(_:numberOfRowsInSection:):ReviewsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "reviewList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.parseJSON(json:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "business.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ResultsTableViewController.prepare(for:sender:):ResultsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedBusiness">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotosViewController.tableView(_:cellForRowAt:):PhotosViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.contentView.subviews">
+            </PersistentString>
+            <PersistentString
+               value = "view.restorationIdentifier">
+            </PersistentString>
+            <PersistentString
+               value = "photos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in PhotosViewController.tableView(_:cellForRowAt:):PhotosViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "photo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ResultsTableViewController.tableView(_:numberOfRowsInSection:):ResultsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DetailsTabBarController.loadPhotosForPlace(placeID:):DetailsTabBarController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "totalPhotos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ResultsTableViewController.getPlaceDetails():ResultsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "responseJSON[&quot;result&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotosViewController.tableView(_:numberOfRowsInSection:):PhotosViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "photos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReviewsViewController.sortByChanged(_:):ReviewsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "reviewTypeControl.selectedSegmentIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DetailsTabBarController.loadReviews():DetailsTabBarController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "search?.businesses">
+            </PersistentString>
+            <PersistentString
+               value = "yelpBusiness.address">
+            </PersistentString>
+            <PersistentString
+               value = "self.business.name">
+            </PersistentString>
+            <PersistentString
+               value = "self.business.address">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReviewsViewController.tableView(_:didSelectRowAt:):ReviewsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in PhotosViewController.loadPhotosForPlace(placeID:):PhotosViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "totalPhotos">
+            </PersistentString>
+            <PersistentString
+               value = "photosDownloaded">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MainViewController.searchAction(_:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pages">
+            </PersistentString>
+            <PersistentString
+               value = "dataResponse.error">
+            </PersistentString>
+            <PersistentString
+               value = "dataResponse.result">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailsTabBarController.viewDidLoad():DetailsTabBarController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "navigationItem.leftBarButtonItem">
+            </PersistentString>
+            <PersistentString
+               value = "yelpReviews">
+            </PersistentString>
+            <PersistentString
+               value = "json">
+            </PersistentString>
+            <PersistentString
+               value = "self.navigationItem.backBarButtonItem.title">
+            </PersistentString>
+            <PersistentString
+               value = "business">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BusinessTableViewCell.favoriteAction(_:):BusinessTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favoritesButton.currentImage == UIImage(named: &quot;favorite-empty&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "self.inputView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapViewController.requestDirections(from:):MapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "coords?.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.prepare(for:sender:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "InfoViewController.populate():InfoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json?[&quot;price_level&quot;].rawNumber">
+            </PersistentString>
+            <PersistentString
+               value = "json?[&quot;international_phone_number&quot;].rawString()">
+            </PersistentString>
+            <PersistentString
+               value = "json?[&quot;url&quot;].rawString()">
+            </PersistentString>
+            <PersistentString
+               value = "json?[&quot;rating&quot;].rawString()">
+            </PersistentString>
+            <PersistentString
+               value = "json?[&quot;price_level&quot;].rawString()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "specialized closure #1 in DetailsTabBarController.loadReviews():DetailsTabBarController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "search?.businesses">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.searchAction(_:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "distanceTextField.text!">
+            </PersistentString>
+            <PersistentString
+               value = "searchParamsChanged">
+            </PersistentString>
+            <PersistentString
+               value = "keywordTextField.text!">
+            </PersistentString>
+            <PersistentString
+               value = "self.view">
+            </PersistentString>
+            <PersistentString
+               value = "parameters">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.locationManager(_:didUpdateLocations:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "userLocation.coordinate.latitude">
+            </PersistentString>
+            <PersistentString
+               value = "coords">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ResultsTableViewController.updateBusinessDetails(json:):ResultsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json[&quot;result&quot;][&quot;reviews&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "InfoViewController.phoneNumberAction(_:):InfoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(phoneNumber.titleLabel?.text)!">
+            </PersistentString>
+            <PersistentString
+               value = "URL(string:&quot;14159829738&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

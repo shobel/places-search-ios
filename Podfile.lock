@@ -1,0 +1,69 @@
+PODS:
+  - Alamofire (4.7.2)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - AlamofireSwiftyJSON (1.0.1):
+    - Alamofire (~> 4.0)
+    - SwiftyJSON (~> 4.0)
+  - Cosmos (15.0.0)
+  - EasyToast (2.0.2)
+  - GoogleMaps (2.6.0):
+    - GoogleMaps/Maps (= 2.6.0)
+  - GoogleMaps/Base (2.6.0)
+  - GoogleMaps/Maps (2.6.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.6.0):
+    - GoogleMaps (= 2.6.0)
+    - GooglePlaces (= 2.6.0)
+  - GooglePlaces (2.6.0):
+    - GoogleMaps/Base (= 2.6.0)
+  - McPicker (1.0.0)
+  - SwiftSpinner (1.5.0)
+  - SwiftyJSON (4.0.0)
+  - YelpAPI (3.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - AlamofireSwiftyJSON
+  - Cosmos
+  - EasyToast
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - McPicker
+  - SwiftSpinner
+  - YelpAPI
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireSwiftyJSON
+    - Cosmos
+    - EasyToast
+    - GoogleMaps
+    - GooglePlacePicker
+    - GooglePlaces
+    - McPicker
+    - SwiftSpinner
+    - SwiftyJSON
+    - YelpAPI
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  AlamofireSwiftyJSON: ad896b68b586aea5de8ddba641ad3b402b8d5511
+  Cosmos: a6dbd3d0baa0cc8f51f8598f7508d5a09d0a9ade
+  EasyToast: 2844de2158fe8d2313c6de81b5a858a909d82532
+  GoogleMaps: 42f91c68b7fa2f84d5c86597b18ceb99f5414c7f
+  GooglePlacePicker: e4488625effb006f59de49e14b7a603e463e4261
+  GooglePlaces: f6ddf33b75cef69e888907d9947c57198ed845f3
+  McPicker: 130183cd3d22fc6933ea9e63c5a0d0d1becc0122
+  SwiftSpinner: 4c058c7a1d6b444dd2e1d70988ead40783097133
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  YelpAPI: 9ae0ee45b998d306c1aff9b2d966dc23121f191e
+
+PODFILE CHECKSUM: 9cb11030eeab67dbf5bba4e7f6626f22d5176afd
+
+COCOAPODS: 1.5.0

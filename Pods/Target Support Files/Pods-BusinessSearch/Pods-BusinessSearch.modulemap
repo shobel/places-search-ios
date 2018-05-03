@@ -1,0 +1,6 @@
+framework module Pods_BusinessSearch {
+  umbrella header "Pods-BusinessSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}

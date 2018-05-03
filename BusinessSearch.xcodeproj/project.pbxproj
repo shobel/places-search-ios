@@ -7,13 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C2D84FA2089B27700A285F5 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C2D84F92089B27700A285F5 /* MapViewController.swift */; };
+		1C2D84FC2089B5AB00A285F5 /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C2D84FB2089B5AB00A285F5 /* PhotosViewController.swift */; };
+		1C2D84FE208A66B200A285F5 /* ReviewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C2D84FD208A66B200A285F5 /* ReviewsTableViewCell.swift */; };
+		1C2D8500208A70AE00A285F5 /* ReviewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C2D84FF208A70AE00A285F5 /* ReviewsViewController.swift */; };
+		1C2D8502208A890E00A285F5 /* Review.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C2D8501208A890E00A285F5 /* Review.swift */; };
+		1C31572F20867A0E001905E0 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C31572E20867A0E001905E0 /* MainViewController.swift */; };
+		1C3157312086C849001905E0 /* Dataholder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C3157302086C849001905E0 /* Dataholder.swift */; };
+		1C3157332086E8FF001905E0 /* Business.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C3157322086E8FF001905E0 /* Business.swift */; };
+		1C526739208EF55700E26506 /* HTTPRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C526738208EF55700E26506 /* HTTPRequest.swift */; };
+		1C5A25D1208FC13300815125 /* DetailData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5A25D0208FC13300815125 /* DetailData.swift */; };
+		1C7B320920886E3000E8434A /* FavoritesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C7B320820886E3000E8434A /* FavoritesTableViewCell.swift */; };
+		1C7B320F20891C5A00E8434A /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C7B320E20891C5A00E8434A /* InfoViewController.swift */; };
+		1C7B321320893B3B00E8434A /* DetailsTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C7B321220893B3B00E8434A /* DetailsTabBarController.swift */; };
 		1C871B392085B80700A58179 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C871B382085B80700A58179 /* AppDelegate.swift */; };
-		1C871B3B2085B80700A58179 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C871B3A2085B80700A58179 /* ViewController.swift */; };
 		1C871B3E2085B80800A58179 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C871B3C2085B80700A58179 /* Main.storyboard */; };
 		1C871B402085B80800A58179 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C871B3F2085B80800A58179 /* Assets.xcassets */; };
 		1C871B432085B80800A58179 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C871B412085B80800A58179 /* LaunchScreen.storyboard */; };
 		1C871B4E2085B80800A58179 /* BusinessSearchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C871B4D2085B80800A58179 /* BusinessSearchTests.swift */; };
 		1C871B592085B80800A58179 /* BusinessSearchUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C871B582085B80800A58179 /* BusinessSearchUITests.swift */; };
+		1C9F750E208716EF00BD0108 /* ResultsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C9F750D208716EF00BD0108 /* ResultsTableViewController.swift */; };
+		1C9F75102087292300BD0108 /* BusinessTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C9F750F2087292300BD0108 /* BusinessTableViewCell.swift */; };
+		1CE545D3208BDA8800F275F9 /* ReviewManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CE545D2208BDA8800F275F9 /* ReviewManager.swift */; };
+		4A322E92BA8AC116317D574E /* Pods_BusinessSearch.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 86FB15C4FD02ED1AEFAD73A3 /* Pods_BusinessSearch.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,9 +50,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1C2D84F92089B27700A285F5 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		1C2D84FB2089B5AB00A285F5 /* PhotosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosViewController.swift; sourceTree = "<group>"; };
+		1C2D84FD208A66B200A285F5 /* ReviewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewsTableViewCell.swift; sourceTree = "<group>"; };
+		1C2D84FF208A70AE00A285F5 /* ReviewsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewsViewController.swift; sourceTree = "<group>"; };
+		1C2D8501208A890E00A285F5 /* Review.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Review.swift; sourceTree = "<group>"; };
+		1C31572E20867A0E001905E0 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		1C3157302086C849001905E0 /* Dataholder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dataholder.swift; sourceTree = "<group>"; };
+		1C3157322086E8FF001905E0 /* Business.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Business.swift; sourceTree = "<group>"; };
+		1C526738208EF55700E26506 /* HTTPRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPRequest.swift; sourceTree = "<group>"; };
+		1C5A25D0208FC13300815125 /* DetailData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailData.swift; sourceTree = "<group>"; };
+		1C7B320820886E3000E8434A /* FavoritesTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesTableViewCell.swift; sourceTree = "<group>"; };
+		1C7B320E20891C5A00E8434A /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
+		1C7B321220893B3B00E8434A /* DetailsTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsTabBarController.swift; sourceTree = "<group>"; };
 		1C871B352085B80700A58179 /* BusinessSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BusinessSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C871B382085B80700A58179 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		1C871B3A2085B80700A58179 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1C871B3D2085B80700A58179 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1C871B3F2085B80800A58179 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C871B422085B80800A58179 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -47,6 +75,12 @@
 		1C871B542085B80800A58179 /* BusinessSearchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BusinessSearchUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C871B582085B80800A58179 /* BusinessSearchUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusinessSearchUITests.swift; sourceTree = "<group>"; };
 		1C871B5A2085B80800A58179 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C9F750D208716EF00BD0108 /* ResultsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsTableViewController.swift; sourceTree = "<group>"; };
+		1C9F750F2087292300BD0108 /* BusinessTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusinessTableViewCell.swift; sourceTree = "<group>"; };
+		1CE545D2208BDA8800F275F9 /* ReviewManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewManager.swift; sourceTree = "<group>"; };
+		26B91797BA593E6BA2CBE38E /* Pods-BusinessSearch.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BusinessSearch.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BusinessSearch/Pods-BusinessSearch.debug.xcconfig"; sourceTree = "<group>"; };
+		42B6761EB834E00D8675125B /* Pods-BusinessSearch.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BusinessSearch.release.xcconfig"; path = "Pods/Target Support Files/Pods-BusinessSearch/Pods-BusinessSearch.release.xcconfig"; sourceTree = "<group>"; };
+		86FB15C4FD02ED1AEFAD73A3 /* Pods_BusinessSearch.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BusinessSearch.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +88,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A322E92BA8AC116317D574E /* Pods_BusinessSearch.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,6 +109,43 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1C31572A208679C9001905E0 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				1C3157302086C849001905E0 /* Dataholder.swift */,
+				1C3157322086E8FF001905E0 /* Business.swift */,
+				1C2D8501208A890E00A285F5 /* Review.swift */,
+				1CE545D2208BDA8800F275F9 /* ReviewManager.swift */,
+				1C526738208EF55700E26506 /* HTTPRequest.swift */,
+				1C5A25D0208FC13300815125 /* DetailData.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		1C31572C208679D9001905E0 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				1C9F750F2087292300BD0108 /* BusinessTableViewCell.swift */,
+				1C7B320820886E3000E8434A /* FavoritesTableViewCell.swift */,
+				1C2D84FD208A66B200A285F5 /* ReviewsTableViewCell.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		1C31572D208679E5001905E0 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				1C31572E20867A0E001905E0 /* MainViewController.swift */,
+				1C9F750D208716EF00BD0108 /* ResultsTableViewController.swift */,
+				1C7B321220893B3B00E8434A /* DetailsTabBarController.swift */,
+				1C7B320E20891C5A00E8434A /* InfoViewController.swift */,
+				1C2D84FB2089B5AB00A285F5 /* PhotosViewController.swift */,
+				1C2D84F92089B27700A285F5 /* MapViewController.swift */,
+				1C2D84FF208A70AE00A285F5 /* ReviewsViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
 		1C871B2C2085B80700A58179 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +153,8 @@
 				1C871B4C2085B80800A58179 /* BusinessSearchTests */,
 				1C871B572085B80800A58179 /* BusinessSearchUITests */,
 				1C871B362085B80700A58179 /* Products */,
+				F77F717209F23C43380A0CE8 /* Pods */,
+				EF8F90B6B36C2A1C2A590381 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,8 +171,10 @@
 		1C871B372085B80700A58179 /* BusinessSearch */ = {
 			isa = PBXGroup;
 			children = (
+				1C31572D208679E5001905E0 /* Controllers */,
+				1C31572C208679D9001905E0 /* Views */,
+				1C31572A208679C9001905E0 /* Models */,
 				1C871B382085B80700A58179 /* AppDelegate.swift */,
-				1C871B3A2085B80700A58179 /* ViewController.swift */,
 				1C871B3C2085B80700A58179 /* Main.storyboard */,
 				1C871B3F2085B80800A58179 /* Assets.xcassets */,
 				1C871B412085B80800A58179 /* LaunchScreen.storyboard */,
@@ -125,6 +201,23 @@
 			path = BusinessSearchUITests;
 			sourceTree = "<group>";
 		};
+		EF8F90B6B36C2A1C2A590381 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				86FB15C4FD02ED1AEFAD73A3 /* Pods_BusinessSearch.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F77F717209F23C43380A0CE8 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				26B91797BA593E6BA2CBE38E /* Pods-BusinessSearch.debug.xcconfig */,
+				42B6761EB834E00D8675125B /* Pods-BusinessSearch.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +225,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1C871B5D2085B80800A58179 /* Build configuration list for PBXNativeTarget "BusinessSearch" */;
 			buildPhases = (
+				5ABC21BA0B7B5D0F92CFF8D4 /* [CP] Check Pods Manifest.lock */,
 				1C871B312085B80700A58179 /* Sources */,
 				1C871B322085B80700A58179 /* Frameworks */,
 				1C871B332085B80700A58179 /* Resources */,
+				FA063AE80B3411445FF25F07 /* [CP] Embed Pods Frameworks */,
+				350069A9A8AAA8880CD82F59 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -254,13 +350,105 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		350069A9A8AAA8880CD82F59 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-BusinessSearch/Pods-BusinessSearch-resources.sh",
+				"${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle",
+				"${PODS_ROOT}/GooglePlacePicker/Frameworks/GooglePlacePicker.framework/Resources/GooglePlacePicker.bundle",
+				"${PODS_ROOT}/GooglePlaces/Frameworks/GooglePlaces.framework/Resources/GooglePlaces.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleMaps.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GooglePlacePicker.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GooglePlaces.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-BusinessSearch/Pods-BusinessSearch-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5ABC21BA0B7B5D0F92CFF8D4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-BusinessSearch-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FA063AE80B3411445FF25F07 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-BusinessSearch/Pods-BusinessSearch-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework",
+				"${BUILT_PRODUCTS_DIR}/AlamofireSwiftyJSON/AlamofireSwiftyJSON.framework",
+				"${BUILT_PRODUCTS_DIR}/Cosmos/Cosmos.framework",
+				"${BUILT_PRODUCTS_DIR}/EasyToast/EasyToast.framework",
+				"${BUILT_PRODUCTS_DIR}/McPicker/McPicker.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftSpinner/SwiftSpinner.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
+				"${BUILT_PRODUCTS_DIR}/YelpAPI/YelpAPI.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AlamofireImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AlamofireSwiftyJSON.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Cosmos.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/EasyToast.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/McPicker.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftSpinner.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YelpAPI.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-BusinessSearch/Pods-BusinessSearch-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		1C871B312085B80700A58179 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1C871B3B2085B80700A58179 /* ViewController.swift in Sources */,
+				1C2D84FA2089B27700A285F5 /* MapViewController.swift in Sources */,
 				1C871B392085B80700A58179 /* AppDelegate.swift in Sources */,
+				1C3157332086E8FF001905E0 /* Business.swift in Sources */,
+				1C2D8500208A70AE00A285F5 /* ReviewsViewController.swift in Sources */,
+				1C2D8502208A890E00A285F5 /* Review.swift in Sources */,
+				1C526739208EF55700E26506 /* HTTPRequest.swift in Sources */,
+				1C2D84FE208A66B200A285F5 /* ReviewsTableViewCell.swift in Sources */,
+				1C3157312086C849001905E0 /* Dataholder.swift in Sources */,
+				1C31572F20867A0E001905E0 /* MainViewController.swift in Sources */,
+				1C9F750E208716EF00BD0108 /* ResultsTableViewController.swift in Sources */,
+				1C9F75102087292300BD0108 /* BusinessTableViewCell.swift in Sources */,
+				1CE545D3208BDA8800F275F9 /* ReviewManager.swift in Sources */,
+				1C7B320F20891C5A00E8434A /* InfoViewController.swift in Sources */,
+				1C5A25D1208FC13300815125 /* DetailData.swift in Sources */,
+				1C2D84FC2089B5AB00A285F5 /* PhotosViewController.swift in Sources */,
+				1C7B321320893B3B00E8434A /* DetailsTabBarController.swift in Sources */,
+				1C7B320920886E3000E8434A /* FavoritesTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -424,6 +612,7 @@
 		};
 		1C871B5E2085B80800A58179 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 26B91797BA593E6BA2CBE38E /* Pods-BusinessSearch.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -439,6 +628,7 @@
 		};
 		1C871B5F2085B80800A58179 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 42B6761EB834E00D8675125B /* Pods-BusinessSearch.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
